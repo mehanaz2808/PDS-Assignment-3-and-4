@@ -1,6 +1,7 @@
 # PDS-Assignment-3-and-4
-Use any open-source API to access some data in Jason format and then parse the Jason data and
-display it as some kind of dashboard (20 points).
+
+
+
 a. When consuming APIs with Python, you may use python library: requests. With it, you
 should be able to do most, if not all, of the actions required to consume any public API (for
 example open weather API or Random User Generator API, or traffic API etc.) below are
@@ -13,6 +14,8 @@ v. Zillow
 vi. Sportspage Feeds
 vii. Nexmo Number Insight
 viii. Google Shopping
+
+
 b. To display the data you may use python library Dash or some other library.
 Data link for question 2: https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv
 2) The data file diabetes.csv contains data of 768 patients. In this data there are 8 attributes
@@ -36,6 +39,6 @@ link to Canvas.
 
 
 
-125%
+
 
 
