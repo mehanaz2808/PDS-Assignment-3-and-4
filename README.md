@@ -1,6 +1,8 @@
 # PDS-Assignment-3-and-4
 
 
+1) Use any open-source API to access some data in Jason format and then parse the Jason data and
+display it as some kind of dashboard.
 
 a. When consuming APIs with Python, you may use python library: requests. With it, you
 should be able to do most, if not all, of the actions required to consume any public API (for
